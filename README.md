@@ -1,9 +1,9 @@
 # Rules-bot 📃
 Discord rules bot
 ### Invite bot
-
-# Installation 📥
 [Click here!](https://discord.com/api/oauth2/authorize?client_id=866880973856309259&permissions=198768&scope=bot)
+# Installation 📥
+
 1. Open terminal
 2. `cd` Your local bot file
 3. Run this command ⬇️
